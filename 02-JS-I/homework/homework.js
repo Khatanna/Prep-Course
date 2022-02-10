@@ -98,7 +98,7 @@ function numeroRandom() {
 }
 
 function esPositivo(numero) {
-  return num > 0 ? "Es positivo" : "Es negativo";  
+  return numero > 0 ? "Es positivo" : "Es negativo";  
 }
 
 function agregarSimboloExclamacion(str) {
